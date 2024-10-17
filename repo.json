@@ -1,0 +1,22 @@
+[
+	{
+		"Name": "yazi",
+		"Description": "Yazi filemanager support",
+		"Tags": [
+		    "yazi",
+		    "file",
+		    "filemanager",
+		    "finder",
+		    "menu"
+		],
+		"Versions": [
+			{
+				"Version": "1.0.0",
+				"Url": "https://github.com/RichardFevrier/micro-yazi/archive/v1.0.0.zip",
+				"Require": {
+					"micro": ">=2.0.0"
+				}
+			}
+		]
+	}
+]
